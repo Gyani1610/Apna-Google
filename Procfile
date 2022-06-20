@@ -1,0 +1,1 @@
+web gunicorn ApnaGoogle.wsgi:application --log-file -
